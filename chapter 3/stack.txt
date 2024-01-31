@@ -1,0 +1,4 @@
+stack:
+- FIFO, first in - first out
+- 2 operations: push e pop
+
