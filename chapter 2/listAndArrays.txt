@@ -1,0 +1,10 @@
+array:
+- slow to insert and remove
+- fast to get/locate
+- keep all the values side by side in memory
+- all values has the same type
+
+list:
+- fast to insert and remove
+- slow to get/locate
+- keep all the values randomly, one with the memory address of next
