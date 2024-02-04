@@ -1,0 +1,7 @@
+hash:
+- extremely faster - O(1)
+-  uses arrays to store data from an item
+- good to filter if already exists 
+- good hash functions avois colisions
+- used in cache
+- not ordened
