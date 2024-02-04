@@ -1,0 +1,17 @@
+- You need to check people in the order they were added to the search
+list, so the search list needs to be a queue. Otherwise, you won’t get
+the shortest path.
+- Once you check someone, make sure you don’t check them again.
+Otherwise, you might end up in an infinite loop.
+
+
+stack - LIFO
+queue - FIFO
+
+Directed graph -> has arrows, and the relationship follows the
+direction of the arrow (rama -> adit means “rama owes adit money”).
+
+Undirected graphs -> don’t have arrows, and the relationship goes both
+ways (ross - rachel means “ross dated rachel and rachel dated ross”).
+
+tree - is a special type of graph, where no edges ever point back. Every tree is a graph but not every graph is a tree
