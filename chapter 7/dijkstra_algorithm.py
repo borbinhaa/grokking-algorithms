@@ -65,5 +65,5 @@ if __name__ == "__main__":
         # Find the next node to process, and loop.
         node = find_lowest_cost_node(costs)
 
-    print("Cost from the start to each node:")
+    print("Lowest cost from the start to each node:")
     print(costs)
